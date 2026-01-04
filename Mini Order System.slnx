@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Business/Business.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="Mini Order System/ConsoleUI.csproj" />
+</Solution>
